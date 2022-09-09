@@ -32,7 +32,8 @@ export const config = {
    */
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "PlVbl_fRNOQ7gwUp7gdaqN46jKy9DDM_XHdfuRNDWKM",
+  // CALLBACK_TEMPLATE_ID: "PlVbl_fRNOQ7gwUp7gdaqN46jKy9DDM_XHdfuRNDWKM",
+  CALLBACK_TEMPLATE_ID: "1gbkWorCWlzj87sg0NqxGVWMNsgqVs8iY-vPW8ublb0",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
@@ -64,7 +65,7 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    { "type": "生日", "name": "大漂亮", "year": "2001", "date": "09-19" },
+    { "type": "生日", "name": "大漂亮", "year": "2001", "date": "10-14" },
     // { "type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03" },
     // { "type": "生日", "name": "李四", "year": "1996", "date": "09-31" },
     { "type": "节日", "name": "相识纪念日", "year": "2022", "date": "08-11" },
